@@ -1,7 +1,7 @@
 # word_predict
 A program in OZ language that predicts next words while typing
 
-It's a project I worked on with *Nicolas Jadoul* at "Univesrité Catholique de Louvain"
+It's a project I worked on with **Nicolas Jadoul** at "Univesrité Catholique de Louvain"
 
 **Goal**
 
